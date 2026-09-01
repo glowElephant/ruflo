@@ -1,20 +1,20 @@
 {
   "schema": "ruflo-ecosystem-proof/v2",
-  "generated_at": "2026-08-27T17:37:39.095Z",
+  "generated_at": "2026-09-01T11:38:16.227Z",
   "sources": {
     "github_clones": "https://api.github.com/repos/{owner}/{repo}/traffic/clones (14-day rolling window)",
     "npm_downloads": "https://api.npmjs.org/downloads/range/last-year/{pkg}"
   },
   "latest_snapshot": {
-    "id": "2026-08-27T17:37:39.095Z-39cacc89",
-    "captured_at": "2026-08-27T17:37:39.095Z",
+    "id": "2026-09-01T11:38:16.227Z-5d012995",
+    "captured_at": "2026-09-01T11:38:16.227Z",
     "clones_14d": 0,
     "unique_cloners_14d": 0,
-    "npm_downloads_12mo_headline": 10429494,
-    "headline": "10.4M npm downloads · 0k git clones (14d)"
+    "npm_downloads_12mo_headline": 10541424,
+    "headline": "10.5M npm downloads · 0k git clones (14d)"
   },
-  "ledger_snapshot_count": 14,
-  "ledger_sha256": "2aaf138b73449541fe44b2508485ce7af7a5f492f9bbe7518ae576043c70cb2f",
+  "ledger_snapshot_count": 15,
+  "ledger_sha256": "353baf59d1692bdc6cfca3892063ad0c9f617a083b7a9df19c7725e8ad3b2783",
   "ledger_path": "data/clone-data.ledger.json",
   "rvf_path": "data/clone-data.rvf"
 }
